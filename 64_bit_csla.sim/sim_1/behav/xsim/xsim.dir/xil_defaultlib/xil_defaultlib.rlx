@@ -1,0 +1,16 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/MANGALPALLY/64_bit_csla/64_bit_csla.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/MANGALPALLY/64_bit_csla/64_bit_csla.srcs/sources_1/new/csla_16.v,1680614147,verilog,,C:/Users/MANGALPALLY/Desktop/boomboom/boomboom.srcs/sources_1/new/csla_2.v,,csla_16,,,,,,,,
+C:/Users/MANGALPALLY/64_bit_csla/64_bit_csla.srcs/sources_1/new/csla_32.v,1680615337,verilog,,C:/Users/MANGALPALLY/Desktop/boomboom/boomboom.srcs/sources_1/new/csla_8_bit.v,,csla_32,,,,,,,,
+C:/Users/MANGALPALLY/64_bit_csla/64_bit_csla.srcs/sources_1/new/csla_64_bit.v,1681221842,verilog,,,,csla_64_bit,,,,,,,,
+C:/Users/MANGALPALLY/Desktop/boomboom/boomboom.srcs/sources_1/new/and_1.v,1680587658,verilog,,C:/Users/MANGALPALLY/Desktop/boomboom/boomboom.srcs/sources_1/new/csla.v,,and_1,,,,,,,,
+C:/Users/MANGALPALLY/Desktop/boomboom/boomboom.srcs/sources_1/new/csla.v,1680589808,verilog,,C:/Users/MANGALPALLY/64_bit_csla/64_bit_csla.srcs/sources_1/new/csla_16.v,,csla,,,,,,,,
+C:/Users/MANGALPALLY/Desktop/boomboom/boomboom.srcs/sources_1/new/csla_2.v,1680589018,verilog,,C:/Users/MANGALPALLY/64_bit_csla/64_bit_csla.srcs/sources_1/new/csla_32.v,,csla_2,,,,,,,,
+C:/Users/MANGALPALLY/Desktop/boomboom/boomboom.srcs/sources_1/new/csla_8_bit.v,1680590230,verilog,,C:/Users/MANGALPALLY/Desktop/boomboom/boomboom.srcs/sources_1/new/mux_1.v,,csla_8_bit,,,,,,,,
+C:/Users/MANGALPALLY/Desktop/boomboom/boomboom.srcs/sources_1/new/mux_1.v,1680590568,verilog,,C:/Users/MANGALPALLY/Desktop/boomboom/boomboom.srcs/sources_1/new/not_1.v,,mux_1,,,,,,,,
+C:/Users/MANGALPALLY/Desktop/boomboom/boomboom.srcs/sources_1/new/not_1.v,1680587860,verilog,,C:/Users/MANGALPALLY/Desktop/boomboom/boomboom.srcs/sources_1/new/or_1.v,,not_1,,,,,,,,
+C:/Users/MANGALPALLY/Desktop/boomboom/boomboom.srcs/sources_1/new/or_1.v,1680587750,verilog,,C:/Users/MANGALPALLY/Desktop/boomboom/boomboom.srcs/sources_1/new/xor_1.v,,or_1,,,,,,,,
+C:/Users/MANGALPALLY/Desktop/boomboom/boomboom.srcs/sources_1/new/xor_1.v,1680587954,verilog,,C:/Users/MANGALPALLY/64_bit_csla/64_bit_csla.srcs/sources_1/new/csla_64_bit.v,,xor_1,,,,,,,,

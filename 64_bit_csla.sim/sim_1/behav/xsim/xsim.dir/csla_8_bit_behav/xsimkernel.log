@@ -1,0 +1,7 @@
+Running: xsim.dir/csla_8_bit_behav/xsimk.exe -simmode gui -wdb csla_8_bit_behav.wdb -simrunnum 0 -socket 51588
+Design successfully loaded
+Design Loading Memory Usage: 7320 KB (Peak: 7320 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 8004 KB (Peak: 8004 KB)
+Simulation CPU Usage: 15 ms
